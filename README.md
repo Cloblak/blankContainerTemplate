@@ -22,3 +22,8 @@ Template repository for a Python project using Devcontainers. Fork this reposito
 ## GitHub Actions ready
 
 * Uses a workflow for linting the included `Dockerfile`
+
+## Execute
+
+* navigate to parent folder after cloning
+* use command "code ." to open container in VScode
